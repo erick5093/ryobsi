@@ -31,3 +31,5 @@ Ege/RX7900XTX9489
 5e353216-1045-4e00-85d7-d3ab4e7b0a27
 Alan2p8
 de63fcf3-50c8-40ab-afc1-e4d7dd8ce311
+Loscam1peso
+c0c98cee-0c3a-416c-b510-a2934de51e51
